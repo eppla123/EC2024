@@ -1,1 +1,6 @@
 # EC2024![image](https://github.com/eppla123/EC2024/assets/162283478/cbc598bf-4110-4652-b9d2-726262ca108d)
+![A](https://github.com/eppla123/EC2024/assets/162283478/018c1a11-bb01-47bc-afe2-23d89eac60cb)
+![B](https://github.com/eppla123/EC2024/assets/162283478/c72166fc-b90b-43ec-a524-b081c80e22c6)
+![C](https://github.com/eppla123/EC2024/assets/162283478/df2e7398-0d6f-49fd-b57b-4f90a639e339)
+![D](https://github.com/eppla123/EC2024/assets/162283478/d99c8355-4033-4177-903a-52b1f7111ff1)
+![E](https://github.com/eppla123/EC2024/assets/162283478/bbd7532f-c4c6-4f43-9380-f4810ca3fdfe)
