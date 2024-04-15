@@ -4,3 +4,7 @@
 ![C](https://github.com/eppla123/EC2024/assets/162283478/df2e7398-0d6f-49fd-b57b-4f90a639e339)
 ![D](https://github.com/eppla123/EC2024/assets/162283478/d99c8355-4033-4177-903a-52b1f7111ff1)
 ![E](https://github.com/eppla123/EC2024/assets/162283478/bbd7532f-c4c6-4f43-9380-f4810ca3fdfe)
+![實作6](https://github.com/eppla123/EC2024/assets/162283478/27430321-b4f2-4c32-9589-59645b38c6dd)
+![image](https://github.com/eppla123/EC2024/assets/162283478/8bbff236-6199-48e0-ad1e-321815df4d67)
+![image](https://github.com/eppla123/EC2024/assets/162283478/adac18db-45f7-4627-b216-f05bbaf7c044)
+![image](https://github.com/eppla123/EC2024/assets/162283478/3aab02f6-9a12-4788-9845-04283b4d564f)
