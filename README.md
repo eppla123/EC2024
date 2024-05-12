@@ -11,3 +11,4 @@
 ![A1](https://github.com/eppla123/EC2024/assets/162283478/eafaaca2-a9a0-44bd-9afd-d26f58b3b837)
 ![A2](https://github.com/eppla123/EC2024/assets/162283478/dbcda605-7f0d-4e1c-b898-cbf5df3901eb)
 ![B1](https://github.com/eppla123/EC2024/assets/162283478/b8010c93-37bf-4505-9f55-c6e86a870c73)
+![B3](https://github.com/eppla123/EC2024/assets/162283478/c9a01b7e-a59b-492b-a994-e423aad0d730)
