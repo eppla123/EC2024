@@ -14,3 +14,6 @@
 ![B3](https://github.com/eppla123/EC2024/assets/162283478/c9a01b7e-a59b-492b-a994-e423aad0d730)
 ![B4](https://github.com/eppla123/EC2024/assets/162283478/92f93c7c-8e91-4813-91a2-875b3da9d28f)
 ![C](https://github.com/eppla123/EC2024/assets/162283478/5c8971be-f042-46ab-9582-2853716b4e00)
+![D1](https://github.com/eppla123/EC2024/assets/162283478/c6f3b5e4-f377-4529-b98d-5b02a8f6a6a5)
+![D2](https://github.com/eppla123/EC2024/assets/162283478/bbfabdc7-a903-4766-8af9-41b62c78d293)
+![D3](https://github.com/eppla123/EC2024/assets/162283478/fc4e4c66-b4db-473d-8196-f874e273ca67)
